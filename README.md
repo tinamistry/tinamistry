@@ -1,10 +1,10 @@
-## About Me
+# About Me
 - 😄 Pronouns: She/Her
 - - 🎓 Graduated from: SUNY Stony Brook 
 - 📧 How to reach me: [tinavmistry@gmail.com](mailto:tinavmistry@gmail.com)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tina-mistry-16257222a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tinamistry10) 
 
 # 💻 Tech Stack:
